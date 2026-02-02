@@ -26,11 +26,13 @@ GET: Get user subscription Details
 Post: Create a new user  // something like total new
 Get: Here all the information of an user
 Here we found all the user information
+//done
 
 ## /user/{id}
 For single user information i pass certain id
 GET: Get a single user by passing id
 PUT: I want to update or change user minimal information by ID
+//done
 DELETE: DELETE by a user id ((check he/she still have an issued book) && (whether is there any fine to paid))
 
 ## /books 
